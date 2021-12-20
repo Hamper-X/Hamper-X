@@ -35,6 +35,6 @@
   <a href = "mailto:dasmat2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david-alvarenga-salom%C3%A3o-mattar-b10a71173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Hamper-X)
+  ![Snake animation](https://github.com/Hamper-X/Hamper-X/blob/output/github-contribution-grid-snake.svg)
  
 </div>
