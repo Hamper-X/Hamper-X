@@ -1,7 +1,7 @@
-### Hi! I'm David, blockchain engineer and Flutter developer 👋
+### Hi! I'm David, Blockchain engineer and Flutter developer 👋
 
 - 🔭 I’m currently working with C# and WPF
-- 🌱 I’m currently learning FLutter
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter projects 
 - 🤔 I’m looking for help with Java projects and Flutter projects 
 - 📫 How to reach me? Call me on:
