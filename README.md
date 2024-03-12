@@ -1,11 +1,9 @@
-### Hi! I'm David, Blockchain engineer and Flutter developer 👋
+### Hi! I'm David, DevOps Software Engineer 👋
 
-- 🔭 I’m currently working with C# and WPF
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter projects 
-- 🤔 I’m looking for help with Java projects and Flutter projects 
+- 🔭 I’m currently working with .NET Core and Azure
+- 🌱 I’m currently learning IA using Azure
 - 📫 How to reach me? Call me on:
-    discord ( Hamper#6790 ) Or e-mail ( dasmat2000@gmail.com )
+    discord ( hamper_xp ) Or e-mail ( david.mattar2@gmail.com )
  ##
  
 <div align="center">
